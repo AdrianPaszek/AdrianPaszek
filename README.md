@@ -12,10 +12,9 @@
     
 -   🌱 I’m currently learning  **everything that I need while coding.**
     
--   📫 How to reach me  **[adrian.paszek@gmail.com](mailto:glowaczra@gmail.com)**
+-   📫 How to reach me  **[adrian.paszek@gmail.com]**
     
 
-![fafik13](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/fafik13)
 
 ### Languages and Tools:
 
